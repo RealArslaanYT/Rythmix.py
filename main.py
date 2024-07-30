@@ -115,6 +115,7 @@ def main_menu(stdscr):
  / _, _/ /_/ / /_/ / / / / / / / / />  <_ / /_/ / /_/ / 
 /_/ |_|\__, /\__/_/ /_/_/ /_/ /_/_/_/|_(_) .___/\__, /  
       /____/                            /_/    /____/   
+      by Arslaan Pathan (@RealArslaanYT)
     """
 
     while True:
